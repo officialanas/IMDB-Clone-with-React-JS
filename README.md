@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## tmdb api
+
+api trending- https://api.themoviedb.org/3/trending/movie/week?api_key=e1aa688d86ef249fdb21a9b8c9f73426
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
